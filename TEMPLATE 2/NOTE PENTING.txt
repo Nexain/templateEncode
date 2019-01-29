@@ -1,0 +1,11 @@
+-----------LOGBOOK ENCODE 2018----------
+utama : https://docs.google.com/spreadsheets/d/1FVVktDCms2ocy-0-jKinsd7r0LRX8YKBxzENJ4QoGiA/edit?usp=sharing
+mirror : http://bit.ly/logbookEncode2019
+
+---------LOGIN WEB ENCODE---------------
+encode.jtk.polban.ac.id/wp-admin
+username : jtkEncode2019
+password : birukandunia
+
+----------LINK PLATFORM-----------------
+platform.jtk.polban.ac.id

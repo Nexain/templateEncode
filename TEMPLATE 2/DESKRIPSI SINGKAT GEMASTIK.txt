@@ -1,0 +1,14 @@
+Gemastik adalah pagelaran lomba di bidang teknologi informasi yang paling bergengsi di indonesia
+diselenggarakan oleh Kemendikbud setiap tahun di lokasi yg berbeda-beda
+
+Biaya Pendaftaran Gemastik :
+ GRATIS
+
+Cabang Lomba : 
+> Competitive Programming
+> Data Science / Data Mining
+> Desain UI/UX
+> Game Dev
+> Software Dev (Mobile, Web)
+> dll (lebih lengkap lihat buku panduan gemastik tahun lalu)
+

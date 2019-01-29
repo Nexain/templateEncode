@@ -1,0 +1,10 @@
+------------ENCODE [NAMA ENCODE]-----------------
+MENTOR 1
+> [NAMA] - [KONTAK]
+
+MENTOR 2 (isi dengan profil mahasiswa jtk yg sekiranya bisa membantu)
+> [NAMA] - [KONTAK]
+
+MENTOR 3 (isi dengan profil mahasiswa jtk yg sekiranya bisa membantu)
+> [NAMA] - [KONTAK]
+...dan seterusnya..
